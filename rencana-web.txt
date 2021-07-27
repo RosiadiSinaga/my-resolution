@@ -1,0 +1,4 @@
+RENCANA WEB INTERAKTIF :
+- Membuat sistem Login, Register, LogOut
+- Mmebuat sistem CRUD
+- Javascript, PHP, Codeigniter, Bootstrap
