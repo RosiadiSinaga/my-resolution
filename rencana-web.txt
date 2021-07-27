@@ -1,5 +1,6 @@
 RENCANA WEB INTERAKTIF :
 - Membuat sistem Login, Register, LogOut
 - Mmebuat sistem CRUD
-- Javascript (lanjutan, DOM), PHP, Codeigniter, Bootstrap
+- Javascript (lanjutan, DOM), PHP, Codeigniter
 - Game sederhana
+- Python
